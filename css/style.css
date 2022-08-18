@@ -1,0 +1,33 @@
+body {
+    font: comic;
+}
+
+.navbar {
+    background-color: #ffe8d6;
+}
+
+.quemsomos {
+    background-color: #FFFAF0;
+    color: gray;
+}
+
+.margin {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    color: gray;
+}
+
+.parceiros {
+    background: rgb(250, 220, 220);
+}
+
+.servicos {
+    background-color: #FFFAF0;
+    color: gray;
+}
+
+.bgfooter {
+    background-color: pink;
+    color: white;
+}
